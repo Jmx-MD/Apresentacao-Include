@@ -1,0 +1,49 @@
+
+h1{
+    color:rgb(134, 58, 58);
+   text-align: center; 
+   font-size: 40px;
+}
+
+h2{
+    color: rgb(134, 58, 58);
+    text-align: center; 
+}
+h3{
+    color: rgb(134, 58, 58);
+    text-align: center; 
+}
+body{
+    color: rgb(134, 58, 58);
+    text-align: center; 
+    
+}
+
+button{
+    background-color: rgb(94, 45, 45); 
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration:none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  
+}
+footer{
+    background-color: rgb(94, 45, 45); 
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 50px 50px;
+    text-align: left;
+    text-decoration:none;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: 0auto;
+    left: 0;
+    right:0;
+    width:100%auto;
+    
+}

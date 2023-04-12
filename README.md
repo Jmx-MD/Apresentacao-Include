@@ -1,0 +1,1 @@
+Iniciar em Blog.html
